@@ -1,6 +1,3 @@
-from unicodedata import name
-
-
 # normal variable
 name = "Mohamed "
 
